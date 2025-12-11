@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/d0a62d58-5309-44a3-a816-2828681e1103)<img width="605" height="256" alt="image" src="https://github.com/user-attachments/assets/6295a7f8-d02d-408e-a247-81e0a9164151" /># WiseGuy-TryHackMe-Writeup
+# WiseGuy-TryHackMe-Writeup
 Target Machine IP: 10.65.171.229
 I uploaded the decryption Python file, which we will use to decrypt the encoded text into the FLAG.
 
