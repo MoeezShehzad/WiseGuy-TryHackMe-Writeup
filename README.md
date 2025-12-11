@@ -1,0 +1,1 @@
+# WiseGuy-TryHackMe-Writeup
